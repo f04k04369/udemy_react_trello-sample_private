@@ -73,9 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 1. udemy：React で Trello クローンアプリケーションを作って React をマスターしよう！
 2. https://pmpmcherry.hatenablog.com/entry/2024/03/21/225033（17系のインストール）
-
-- react-beutiful-dnd を利用するためにあえて 17 系をインストールする流れになった
+    1.react-beutiful-dnd を利用するためにあえて 17 系をインストールする流れになった
 
 ## 更新履歴
-
-- 1. 2025.02.21 Github 上へ push 後、Vercel へデプロイ
+1. 2025.02.21 Github 上へ push 後、Vercel へデプロイ
